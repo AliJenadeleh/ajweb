@@ -6203,6 +6203,10 @@ textarea.form-control-lg {
   content: "";
 }
 
+.text-j{
+  color:#dc3545;
+}
+
 .text-truncate {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -11213,6 +11217,9 @@ textarea.form-control-lg {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+.text-left{
+  text-align: left !important;
 }
 .text-right{
   text-align: right !important;
