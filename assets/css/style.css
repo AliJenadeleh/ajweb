@@ -11224,7 +11224,17 @@ textarea.form-control-lg {
 .text-right{
   text-align: right !important;
 }
+.text-center{
+ text-align: center !important; 
+}
 .ToRTL{
   direction: rtl !important;
+}
+.pr-0{
+  padding-right: 0 !important;
+}
+
+.mr-0{
+  margin-right: 0 !important;
 }
 /*# sourceMappingURL=style.css.map */
